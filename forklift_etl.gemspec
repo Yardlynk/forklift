@@ -21,7 +21,6 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_dependency "activesupport", '~> 4.0', ">= 4.0.0"
-  s.add_dependency "mysql2",        '~> 0.0', ">= 0.0.1"
   s.add_dependency "elasticsearch", '~> 1.0', ">= 1.0.0"
   s.add_dependency "pony",          '~> 1.0', ">= 1.0.0"
   s.add_dependency "lumberjack",    '~> 1.0', ">= 1.0.0"
